@@ -1,0 +1,13 @@
+{
+  "itemGroup.spaceman101_sushicraft": "Example Mod Tab",
+  "block.spaceman101_sushicraft.example_block": "Example Block",
+  "item.spaceman101_sushicraft.example_item": "Example Item",
+
+  "spaceman101_sushicraft.configuration.title": "Spaceman101 Sushi Craft Configs",
+  "spaceman101_sushicraft.configuration.section.spaceman101_sushicraft.common.toml": "Spaceman101 Sushi Craft Configs",
+  "spaceman101_sushicraft.configuration.section.spaceman101_sushicraft.common.toml.title": "Spaceman101 Sushi Craft Configs",
+  "spaceman101_sushicraft.configuration.items": "Item List",
+  "spaceman101_sushicraft.configuration.logDirtBlock": "Log Dirt Block",
+  "spaceman101_sushicraft.configuration.magicNumberIntroduction": "Magic Number Text",
+  "spaceman101_sushicraft.configuration.magicNumber": "Magic Number"
+}
